@@ -35,4 +35,4 @@
 <br />
 
 [website]: https://headf1rst.github.io
-[instagram]: https://www.instagram.com/sanwa2_sanha# headF1rst
+[instagram]: https://www.instagram.com/sanwa2_sanha
