@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align = "left" alt ="https://headf1rst.github.io/" width="22px" src="https://www.vhv.rs/dpng/d/306-3062372_circle-icons-global-globe-icon-round-hd-png.png" />][website]
-[<img align = "left" alt ="headF1rst | instagram" width="22px" src="https://banner2.cleanpng.com/20180622/thl/kisspng-social-media-computer-icons-white-instagram-icon-5b2dc048768629.4788792815297250004855.jpg" />][instagram]
+[<img align = "left" alt ="https://raw.githubusercontent.com/tombryan/social-icon-font/6c2c9f490470909ffc686e4e19774545ddac7506/svg/blogger.svg" />][website]
+[<img align = "left" alt ="headF1rst | instagram" width="22px" src="https://github.com/tombryan/social-icon-font/blob/master/svg/instagram.svg" />][instagram]
 
 <br />
 
