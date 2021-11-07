@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align = "left" alt ="https://headf1rst.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align = "left" alt ="headF1rst | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align = "left" alt ="https://headf1rst.github.io/" width="22px" src="https://www.globalpeoplestrategist.com/wp-content/uploads/2020/08/globe-icon.jpg" />][website]
+[<img align = "left" alt ="headF1rst | instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" />][instagram]
 
 <br />
 
