@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align = "left" alt ="https://headf1rst.github.io/" width="22px" src="https://icon-library.com/images/blogging-icon/blogging-icon-27.jpg" />][website]
-[<img align = "left" alt ="headF1rst | instagram" width="22px" src="https://w7.pngwing.com/pngs/41/733/png-transparent-instagram-logo-computer-icons-logo-blog-instagram-purple-violet-text-thumbnail.png" />][instagram]
+[<img align = "left" alt ="https://headf1rst.github.io/" width="26px" src="https://icon-library.com/images/blogging-icon/blogging-icon-27.jpg" />][website]
+[<img align = "left" alt ="headF1rst | instagram" width="26px" src="https://e7.pngegg.com/pngimages/704/270/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta-thumbnail.png" />][instagram]
 
 <br />
 
