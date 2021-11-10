@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align = "left" alt ="https://headf1rst.github.io/" width="26px" src="https://icon-library.com/images/blogging-icon/blogging-icon-27.jpg" />][website]
-[<img align = "left" alt ="headF1rst | instagram" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1I8bw112SSNXeInUWyJfdtoW9dhPby5TDw&usqp=CAU">][instagram]
+![insta](/images/instagram.png)[instagram]
 
 <br />
 
