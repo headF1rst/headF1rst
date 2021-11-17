@@ -36,7 +36,7 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[BOJ] 행렬 제곱 C++ 풀이 [분할정복]](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_1629/)
+- [[BOJ] 곱셈 C++ 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_1629/)
 - [[BOJ] 행렬 제곱 C++ 풀이 [분할정복]](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_10830/)
 - [[Algorithm] 고속 거듭제곱 알고리즘](https://headf1rst.github.io/algorithm/fastPower/)
 - [[C++] 문자열 결합 append, insert, + 사용법](https://headf1rst.github.io/c++/C++%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%B0%ED%95%A9/)
