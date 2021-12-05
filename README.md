@@ -36,11 +36,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Docker 이론] 다중 서버에서의 도커엔진](https://headf1rst.github.io/devops/Docker-in-multiServer/)
+- [[Docker 이론] 가상화와 컨테이너의 등장배경](https://headf1rst.github.io/devops/Docker-intro/)
 - [[BOJ] 이동하기 C++ 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_11048/)
+- [[Rendering] SSR &amp;amp; CSR](https://headf1rst.github.io/front_end/back_end/SSR-CSR/)
 - [[BOJ] 동전1 C++ 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_2293/)
-- [[BOJ] 곱셈 C++ 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_1629/)
-- [[BOJ] 행렬 제곱 C++ 풀이 [분할정복]](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/BOJ_10830/)
-- [[Algorithm] 고속 거듭제곱 알고리즘](https://headf1rst.github.io/algorithm/fastPower/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
