@@ -36,11 +36,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Java 기초] 다향성](https://headf1rst.github.io/java/javaStudy-6/)
 - [[Java 기초] 패키지](https://headf1rst.github.io/java/javaStudy-5/)
 - [[Java 기초] 상속](https://headf1rst.github.io/java/javaStudy-4/)
 - [[Java 기초] 클래스](https://headf1rst.github.io/java/javaStudy-3/)
 - [[Java 기초] 자바 데이터 타입, 변수 그리고 배열](https://headf1rst.github.io/java/javaStudy-2/)
-- [[Java 기초] JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.](https://headf1rst.github.io/java/javaStudy-week1/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
