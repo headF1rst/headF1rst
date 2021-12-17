@@ -1,8 +1,5 @@
 ## Hi there, I'm Sanha 👋
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Post more articles on my blog
-- ⚡ Fun fact: I love to play football / baseball / trumpet
+- 📖 I'm currently reading - 자바의 정석
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
