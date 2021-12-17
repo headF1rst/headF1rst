@@ -1,5 +1,6 @@
 ## Hi there, I'm Sanha 👋
 - 📖 I'm currently reading - 자바의 정석
+- 🏃‍♂️ Everyday habits - 백준 한문제, 1커밋
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
