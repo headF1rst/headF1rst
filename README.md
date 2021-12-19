@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Java 기초] 예외처리](https://headf1rst.github.io/java/javaStudy-week8/)
 - [[Java 기초] 인터페이스](https://headf1rst.github.io/java/javaStudy-week7/)
 - [[Java 기초] 다향성](https://headf1rst.github.io/java/javaStudy-6/)
 - [[Java 기초] 패키지](https://headf1rst.github.io/java/javaStudy-5/)
 - [[Java 기초] 상속](https://headf1rst.github.io/java/javaStudy-4/)
-- [[Java 기초] 클래스](https://headf1rst.github.io/java/javaStudy-3/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
