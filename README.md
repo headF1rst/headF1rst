@@ -1,4 +1,4 @@
-## Hi there, I'm Sanha 👋
+## 개발없이 사나마나 고산하입니다. 👋
 - 📖 I'm currently reading - 자바의 정석
 - 🏃‍♂️ Everyday habits - 백준 한문제, 1커밋
 - 🎓 Education: 
