@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Java 기초] Enum](https://headf1rst.github.io/java/javaStudy-week10/)
 - [[Java 기초] 멀티쓰레드 프로그래밍](https://headf1rst.github.io/java/javaStudy-week9/)
 - [[Java 기초] 예외처리](https://headf1rst.github.io/java/javaStudy-week8/)
 - [[Java 기초] 인터페이스](https://headf1rst.github.io/java/javaStudy-week7/)
 - [[Java 기초] 다향성](https://headf1rst.github.io/java/javaStudy-6/)
-- [[Java 기초] 패키지](https://headf1rst.github.io/java/javaStudy-5/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
