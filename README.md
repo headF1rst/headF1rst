@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [벨만-포드 알고리즘 [파이썬 예제 코드]](https://headf1rst.github.io/algorithm/bellmanford/)
 - [[Python] 파이썬 기본 문법 요약](https://headf1rst.github.io/python/pythonBasic/)
 - [[VS Code] Mac Clang C++17 컴파일러 환경 설정](https://headf1rst.github.io/c++/clang-c++17/)
 - [[Java 기초] 람다식 - Lambda Expression](https://headf1rst.github.io/java/javaStudy-14/)
 - [[Java 기초] 제네릭 - Generics](https://headf1rst.github.io/java/javaStudy-13/)
-- [[Java 기초] 입출력 I/O](https://headf1rst.github.io/java/javaStudy-12/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
