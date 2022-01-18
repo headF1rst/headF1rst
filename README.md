@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [최소 스패닝 트리 - 크루스칼 알고리즘[파이썬 코드]](https://headf1rst.github.io/algorithm/kruskal/)
 - [트리의 지름[파이썬 예제 코드]](https://headf1rst.github.io/algorithm/diameter-of-tree/)
 - [플로이드 워셜 알고리즘[파이썬 예제 코드]](https://headf1rst.github.io/algorithm/floyd-washall/)
 - [다익스트라 알고리즘[파이썬 예제 코드]](https://headf1rst.github.io/algorithm/dijkstra/)
 - [벨만-포드 알고리즘 [파이썬 예제 코드]](https://headf1rst.github.io/algorithm/bellmanford/)
-- [[Python] 파이썬 기본 문법 요약](https://headf1rst.github.io/python/pythonBasic/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
