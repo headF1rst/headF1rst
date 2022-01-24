@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [위상 정렬[파이썬 코드]](https://headf1rst.github.io/algorithm/topology-sort/)
 - [0/1 배낭 채우기[파이썬 코드]](https://headf1rst.github.io/algorithm/knapsack/)
 - [서로소 집합 알고리즘[파이썬 코드]](https://headf1rst.github.io/algorithm/unionfind/)
 - [최소 스패닝 트리 - 크루스칼 알고리즘[파이썬 코드]](https://headf1rst.github.io/algorithm/kruskal/)
 - [트리의 지름[파이썬 예제 코드]](https://headf1rst.github.io/algorithm/diameter-of-tree/)
-- [플로이드 워셜 알고리즘[파이썬 예제 코드]](https://headf1rst.github.io/algorithm/floyd-washall/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
