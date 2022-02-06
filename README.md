@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Diary Setting Test](https://headf1rst.github.io/test/)
 - [좋은 객체지향 설계를 위한 SOLID 원칙 $&lpar;$그리고 IoC&rpar;](https://headf1rst.github.io/back_end/solid-ioc/)
 - [수동, 자동 빈 등록 $&lpar;$컴포넌트 스캔&rpar;](https://headf1rst.github.io/back_end/component-scan/)
 - [스프링의 다양한 DI 방법](https://headf1rst.github.io/back_end/various-spring-dependency-injection/)
 - [백트래킹 알고리즘[파이썬코드]](https://headf1rst.github.io/algorithm/backtracking/)
+- [HTML 기본 개념 정리](https://headf1rst.github.io/cs/basicHTML/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
