@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[JPA]영속성 컨텍스트](https://headf1rst.github.io/back_end/JPA-2/)
 - [[JPA]임베디드 타입과 값 타입 컬렉션](https://headf1rst.github.io/back_end/jpa-embedded/)
 - [[오늘 만난 오류] h2 database not found, java Permission denied](https://headf1rst.github.io/etc/error-1/)
 - [좋은 객체지향 설계를 위한 SOLID 원칙 $&lpar;$그리고 IoC&rpar;](https://headf1rst.github.io/back_end/solid-ioc/)
 - [수동, 자동 빈 등록 $&lpar;$컴포넌트 스캔&rpar;](https://headf1rst.github.io/back_end/component-scan/)
-- [스프링의 다양한 DI 방법](https://headf1rst.github.io/back_end/various-spring-dependency-injection/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
