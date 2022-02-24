@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring security] 스프링 세큐리티 기본 개념 정리](https://headf1rst.github.io/back_end/spring-security-1/)
 - [[JPA]앤티티 매핑](https://headf1rst.github.io/back_end/jpa-3/)
 - [[Java 기초] 스트림과 Optional&lt;T&gt;](https://headf1rst.github.io/java/javaStudy-16/)
 - [[JPA]영속성 컨텍스트](https://headf1rst.github.io/back_end/JPA-2/)
 - [[JPA]임베디드 타입과 값 타입 컬렉션](https://headf1rst.github.io/back_end/jpa-embedded/)
-- [[오늘 만난 오류] h2 database not found, java Permission denied](https://headf1rst.github.io/etc/error-1/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
