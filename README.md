@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [프로젝트 일기 2/16 패키지 구조는 어떻게 가져가야 할까?](https://headf1rst.github.io/etc/promisor-diary-2/)
 - [주요 Lombok 에너테이션 정리](https://headf1rst.github.io/back_end/lombok-summary/)
 - [[Spring security] 스프링 세큐리티 기본 개념 정리](https://headf1rst.github.io/back_end/spring-security-1/)
 - [[JPA]앤티티 매핑](https://headf1rst.github.io/back_end/jpa-3/)
 - [[Java 기초] 스트림과 Optional&lt;T&gt;](https://headf1rst.github.io/java/javaStudy-16/)
-- [[JPA]영속성 컨텍스트](https://headf1rst.github.io/back_end/JPA-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
