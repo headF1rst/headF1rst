@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Programmers] 소수 찾기 파이썬 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/ps-2/)
+- [파이썬 람다를 사용한 정렬](https://headf1rst.github.io/python/sortandlambda/)
+- [[Programmers] 가장 큰 수 파이썬 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/ps-1/)
 - [프로젝트 일기 2/16 패키지 구조는 어떻게 가져가야 할까?](https://headf1rst.github.io/etc/promisor-diary-2/)
 - [주요 Lombok 에너테이션 정리](https://headf1rst.github.io/back_end/lombok-summary/)
-- [[Spring security] 스프링 세큐리티 기본 개념 정리](https://headf1rst.github.io/back_end/spring-security-1/)
-- [[JPA]앤티티 매핑](https://headf1rst.github.io/back_end/jpa-3/)
-- [[Java 기초] 스트림과 Optional&lt;T&gt;](https://headf1rst.github.io/java/javaStudy-16/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
