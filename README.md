@@ -34,11 +34,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [여러 계층에서의 Optional을 통한 NPE 처리](https://headf1rst.github.io/back_end/NPEhandling/)
+- [객체지향의 사실과 오해 감상평](https://headf1rst.github.io/etc/book-repost-1/)
 - [[프로젝트 일기 3/5] 사용자 관점에서 요구사항을 분석해 보자!](https://headf1rst.github.io/etc/promisor-diary-1/)
 - [[Programmers] 순위 검색 파이썬 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/ps-3/)
 - [파이썬 얕은 복사와 깊은 복사](https://headf1rst.github.io/python/python-copy/)
-- [[Programmers] 소수 찾기 파이썬 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/ps-2/)
-- [파이썬 람다를 사용한 정렬](https://headf1rst.github.io/python/sortandlambda/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
