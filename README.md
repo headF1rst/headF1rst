@@ -1,5 +1,5 @@
 ## 개발없이 사나마나 고산하입니다. 👋
-- 📖 I'm currently reading - Head First - Servlets & JSP
+- 📖 I'm currently reading - 객체지향의 사실과 오해
 - 🏃‍♂️ Everyday habits - 백준 한문제, 1커밋
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
@@ -18,7 +18,6 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Sprin Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-<br />
 <br />
 
 ### 📕  Latest Blog posts
