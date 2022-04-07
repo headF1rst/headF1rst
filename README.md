@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] HandlerMethodArgumentResolver로 Header값 받기](https://headf1rst.github.io/back_end/HandlerMethodArgumentResolver/)
 - [[오늘 만난 오류] 스프링 빈 순환 참조](https://headf1rst.github.io/etc/error-3/)
 - [[오늘 만난 오류] Port 8080 is already in use](https://headf1rst.github.io/etc/error-2/)
+- [[프로젝트 일기 3/22] 유즈케이스와 유즈케이스 다이어그램](https://headf1rst.github.io/etc/promisor-diary-4/)
 - [여러 계층에서의 Optional을 통한 NPE 처리](https://headf1rst.github.io/back_end/NPEhandling/)
-- [객체지향의 사실과 오해 감상평](https://headf1rst.github.io/etc/book-repost-1/)
-- [[프로젝트 일기 3/5] 사용자 관점에서 요구사항을 분석해 보자!](https://headf1rst.github.io/etc/promisor-diary-1/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
