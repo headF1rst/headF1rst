@@ -24,7 +24,7 @@
 - [[Spring] HandlerMethodArgumentResolver로 Header값 받기](https://headf1rst.github.io/back_end/HandlerMethodArgumentResolver/)
 - [[오늘 만난 오류] 스프링 빈 순환 참조](https://headf1rst.github.io/etc/error-3/)
 - [[오늘 만난 오류] Port 8080 is already in use](https://headf1rst.github.io/etc/error-2/)
-- [[프로젝트 일기 3/22] 유즈케이스와 유즈케이스 다이어그램](https://headf1rst.github.io/etc/promisor-diary-4/)
+- [[프로젝트 일기 3/22] Promisor 시스템 유즈케이스와 유즈케이스 다이어그램](https://headf1rst.github.io/etc/promisor-diary-4/)
 - [여러 계층에서의 Optional을 통한 NPE 처리](https://headf1rst.github.io/back_end/NPEhandling/)
 <!-- BLOG-POST-LIST:END -->
 
