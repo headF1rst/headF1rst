@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Server] DNS 등록 및  HTTPS 적용](https://headf1rst.github.io/etc/nginx-dns/)
+- [Value Object로 OOP스러워 지기](https://headf1rst.github.io/back_end/value-object/)
+- [[Server] DNS 등록 및  HTTPS 적용](https://headf1rst.github.io/back_end/nginx-dns/)
 - [[Spring] HandlerMethodArgumentResolver로 Header값 받기](https://headf1rst.github.io/back_end/HandlerMethodArgumentResolver/)
 - [[오늘 만난 오류] 스프링 빈 순환 참조](https://headf1rst.github.io/etc/error-3/)
 - [[오늘 만난 오류] Port 8080 is already in use](https://headf1rst.github.io/etc/error-2/)
-- [[프로젝트 일기 3/22] Promisor 시스템 유즈케이스와 유즈케이스 다이어그램](https://headf1rst.github.io/etc/promisor-diary-4/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
