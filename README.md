@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Jenkins] Jenkins로 빌드 배포 자동화 - Github 연동](https://headf1rst.github.io/infra/jenkins-2/)
 - [[Jenkins] Jenkins로 빌드 배포 자동화 - Jenkins 설치](https://headf1rst.github.io/infra/jenkins-1/)
 - [[오늘 만난 오류] NonUniqueResultException](https://headf1rst.github.io/etc/error-4/)
-- [Value Object로 OOP스러워 지기](https://headf1rst.github.io/back_end/value-object/)
-- [[Server] DNS 등록 및  HTTPS 적용](https://headf1rst.github.io/back_end/nginx-dns/)
-- [[Spring] HandlerMethodArgumentResolver로 Header값 받기](https://headf1rst.github.io/back_end/HandlerMethodArgumentResolver/)
+- [Value Object로 OOP스러워 지기](https://headf1rst.github.io/spring/value-object/)
+- [[Server] DNS 등록 및  HTTPS 적용](https://headf1rst.github.io/infra/nginx-dns/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
