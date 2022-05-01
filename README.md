@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Doker] No such file or directory for /var/lib/docker/overlay2](https://headf1rst.github.io/trouble%20shooting/ts-2/)
+- [[Doker] 도커 권한문제 해결: Got permission denied while trying to connect to the Docker daemon socket](https://headf1rst.github.io/trouble%20shooting/ts-1/)
 - [[프로젝트 일기 4/28] 약속 조회 API - 디미터의 법칙](https://headf1rst.github.io/etc/diary-4/)
 - [[Jenkins] Jenkins로 빌드 배포 자동화 - Github 연동](https://headf1rst.github.io/infra/jenkins-2/)
 - [[Jenkins] Jenkins로 빌드 배포 자동화 - Jenkins 설치](https://headf1rst.github.io/infra/jenkins-1/)
-- [[오늘 만난 오류] NonUniqueResultException](https://headf1rst.github.io/etc/error-4/)
-- [Value Object로 OOP스러워 지기](https://headf1rst.github.io/spring/value-object/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
