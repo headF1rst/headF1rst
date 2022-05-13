@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Querydsl 빌드 오류 해결] Unable to load class &#39;com.mysema.codegen.model.Type](https://headf1rst.github.io/etc/error-4/)
+- [2차원 배열 누적합 알고리즘 [파이썬 코드]](https://headf1rst.github.io/algorithm/totalSum/)
+- [[Querydsl 빌드 오류 해결] Unable to load class &#39;com.mysema.codegen.model.Type](https://headf1rst.github.io/trouble%20shooting/error-4/)
+- [[Programmers] 징검다리 건너기 파이썬 풀이](https://headf1rst.github.io/%EC%98%A4%EB%8B%B5%EB%85%B8%ED%8A%B8/programmers-1/)
 - [Ubuntu 환경에서의 Jenkins 설치](https://headf1rst.github.io/infra/jenkins-ubuntu/)
 - [[Doker] No such file or directory for /var/lib/docker/overlay2](https://headf1rst.github.io/trouble%20shooting/ts-2/)
-- [[Doker] 도커 권한문제 해결: Got permission denied while trying to connect to the Docker daemon socket](https://headf1rst.github.io/trouble%20shooting/ts-1/)
-- [[프로젝트 일기 4/28] 약속 조회 API - 디미터의 법칙](https://headf1rst.github.io/etc/diary-4/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
