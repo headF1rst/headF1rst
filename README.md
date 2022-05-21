@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[프로젝트 일기] 서버 아키텍처를 설계 하면서 - 구상](https://headf1rst.github.io/infra/infra-1/)
 - [로드벨런싱을 통한 요청 분산](https://headf1rst.github.io/cs/loadbalancing/)
 - [[JPA] N + 1 문제와  fetch join](https://headf1rst.github.io/spring%20data/fetch-join.md/)
 - [[JPA] 지연로딩과 프록시](https://headf1rst.github.io/spring%20data/lazy-loading/)
 - [2차원 배열 누적합 알고리즘 [파이썬 코드]](https://headf1rst.github.io/algorithm/totalSum/)
-- [[Querydsl 빌드 오류 해결] Unable to load class &#39;com.mysema.codegen.model.Type](https://headf1rst.github.io/trouble%20shooting/error-4/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
