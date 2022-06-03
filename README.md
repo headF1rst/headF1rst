@@ -21,11 +21,11 @@
 
 ### 📕  Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[프로젝트 일기] Nginx - reverse proxy 적용하여 Tomcat과 연동](https://headf1rst.github.io/infra/nginx/)
 - [[SpringBoot] ResponseEntity로 http 응답 생성](https://headf1rst.github.io/spring/response-entity/)
 - [[프로젝트 일기] 피아식별 실패.. CORS, 알고보니 우리편?](https://headf1rst.github.io/spring/cors/)
 - [[프로젝트 일기] 서버 아키텍처를 설계 하면서 - 구상](https://headf1rst.github.io/infra/infra-1/)
 - [로드벨런싱을 통한 요청 분산](https://headf1rst.github.io/cs/loadbalancing/)
-- [[JPA] N + 1 문제와  fetch join](https://headf1rst.github.io/spring%20data/fetch-join.md/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://headf1rst.github.io
