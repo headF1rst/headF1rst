@@ -1,5 +1,5 @@
 ## 집보다 코드가 깨끗한 개발자 고산하입니다. 👋
-- 📖 I'm currently reading - 객체지향의 사실과 오해
+- 📖 I'm currently reading - 이팩티브 
 - 🏃‍♂️ Everyday habits - 백준 한문제, 1커밋
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
