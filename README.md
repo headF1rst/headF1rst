@@ -6,12 +6,6 @@
     - 🇰🇷 Seoul Youngdong High School
     - 🇰🇷 Dankook Univ
 
-### Connect with me:
-
-[<img align = "left" alt ="https://headf1rst.github.io/" width="26px" src="https://icon-library.com/images/blogging-icon/blogging-icon-27.jpg" />][website]
-[<img align = "left" alt ="headF1rst | instagram" width="26px" src="https://user-images.githubusercontent.com/55884834/141100586-724cc663-76ce-4e55-8b35-c7bca297f3e2.png">][instagram]
-
-<br />
 
 ### Laguages and Tools:
 
@@ -28,6 +22,8 @@
 - [[프로젝트 일기] 피아식별 실패.. CORS, 알고보니 우리편?](https://headf1rst.github.io/spring/cors/)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://headf1rst.github.io
+![Email](https://img.shields.io/badge/sanha0498@gmail.com-red?logo=gmail&logoColor=fff) [![Blog](https://img.shields.io/badge/TIL-https://headf1rst.github.io/TIL/-%23333?labelColor=%23aaa)](https://headf1rst.github.io/TIL/) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sanha.io)
+
+[website]: https://headf1rst.github.io/TIL/
 [instagram]: https://www.instagram.com/sanha.io
 [email]: sanha0498@gmail.com
