@@ -13,11 +13,10 @@
 
 
 ### 📚 Article
+- [PWA 환경에서 푸시 알림 구현하기 (Spring Boot, FCM, Redis)](https://headf1rst.github.io/TIL/push-notification)
 - [어노테이션 기반 MVC로 리팩터링 하기 - 2편](https://headf1rst.github.io/TIL/mvc2)
 - [MVC 프레임워크 만들기 - 1편](https://headf1rst.github.io/TIL/mvc1)
 - [다중 요청 처리를 위한 ThreadPool 적용하기](https://headf1rst.github.io/TIL/spring-threadpool)
-- [[프로젝트 일기] 리버스 프록시 적용하여 Tomcat과 연동](https://headf1rst.github.io/TIL/promisor-diary3)
-- [[프로젝트 일기] CORS 해결 과정기](https://headf1rst.github.io/TIL/promisor-diary4)
 
 ### ⌛️ Retrospect
 - [내가 블로그를 새로 시작하는 이유](https://headf1rst.github.io/TIL/start-new-blog)
