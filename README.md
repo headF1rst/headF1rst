@@ -7,7 +7,7 @@
 
 
 ### Experience
-- Backend Developer at [Kurly](https://helloworld.kurly.com/)  (Internship, Mar 2023 – )
+- Backend Developer at [Kurly](https://helloworld.kurly.com/)  (Internship, Mar 2023 – Jun 2023)
 
 ### 📚 Article
 - [PWA 환경에서 푸시 알림 구현하기 (Spring Boot, FCM, Redis)](https://headf1rst.github.io/TIL/push-notification)
