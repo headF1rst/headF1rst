@@ -3,7 +3,7 @@
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
-    - 🇰🇷 Dankook Univ
+    - 🇰🇷 Dankook Univ (Software Dept.)
 
 
 ### Experience
