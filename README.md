@@ -7,6 +7,7 @@
 
 
 ### Experience
+- Backend Developer at [Kurly](https://helloworld.kurly.com/) (Full-time, Aug 2023 - )
 - Backend Developer at [Kurly](https://helloworld.kurly.com/)  (Internship, Mar 2023 – Jun 2023)
 
 ### 📚 Article
