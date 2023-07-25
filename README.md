@@ -1,5 +1,5 @@
 ## 집보다 코드가 깨끗한 개발자 고산하입니다. 👋
-- 📖 I'm currently reading - 엘레강트 오브젝트
+- 📖 I'm currently reading - 데이터 중심 애플리케이션 설계
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
