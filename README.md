@@ -1,5 +1,5 @@
 ## 개발자 고산하입니다. 👋
-- 📖 I'm currently reading - 데이터 중심 애플리케이션 설계
+- 📖 I'm currently reading - RealMySQL 1편
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
