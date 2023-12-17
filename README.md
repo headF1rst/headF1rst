@@ -1,4 +1,4 @@
-## 당연한 것들에 질문을 던지는 개발자 고산하입니다. 👋
+## 고산하 👋
 - 📖 I'm currently reading - RealMySQL 1편
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
