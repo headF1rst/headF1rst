@@ -1,4 +1,4 @@
-## 소프트웨어 엔지니어가 되고픈 고산하입니다. 👋
+## 당연한 것들에 질문을 던지는 개발자 고산하입니다. 👋
 - 📖 I'm currently reading - RealMySQL 1편
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
