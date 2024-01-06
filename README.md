@@ -19,8 +19,8 @@
 ### ⌛️ Retrospect
 - [내가 블로그를 새로 시작하는 이유](https://headf1rst.github.io/TIL/start-new-blog)
 
-![Email](https://img.shields.io/badge/sanha0498@gmail.com-red?logo=gmail&logoColor=fff) [![Blog](https://img.shields.io/badge/TIL-https://headf1rst.github.io/TIL/-%23333?labelColor=%23aaa)](https://headf1rst.github.io/TIL/) [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sanha.io)
+![Email](https://img.shields.io/badge/sanha0498@gmail.com-red?logo=gmail&logoColor=fff) [![Blog](https://img.shields.io/badge/TIL-https://headf1rst.github.io/TIL/-%23333?labelColor=%23aaa)](https://headf1rst.github.io/TIL/) [![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%82%B0%ED%95%98-%EA%B3%A0-51063a255/)
 
 [website]: https://headf1rst.github.io/TIL/
-[instagram]: https://www.instagram.com/sanha.io
+[linkedin]: https://www.linkedin.com/in/%EC%82%B0%ED%95%98-%EA%B3%A0-51063a255/
 [email]: sanha0498@gmail.com
