@@ -1,5 +1,5 @@
 ## 고산하 👋
-- 📖 I'm currently reading - RealMySQL 1편
+- 📖 I'm currently reading - [프로그래머의 뇌](https://m.yes24.com/Goods/Detail/105911017)
 - 🎓 Education: 
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
