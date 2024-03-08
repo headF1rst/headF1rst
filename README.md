@@ -1,6 +1,7 @@
 ## 고산하 👋
 - 📖 I'm currently reading - [프로그래머의 뇌](https://m.yes24.com/Goods/Detail/105911017)
-- 🎓 Education: 
+- 🎓 Education:
+    - 🇯🇵 🌎 Aoba Japan International School
     - 🇯🇵 🇬🇧 British School in Tokyo
     - 🇰🇷 Seoul Youngdong High School
     - 🇰🇷 Dankook Univ (Software Dept.)
